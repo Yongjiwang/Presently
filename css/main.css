@@ -1,0 +1,43 @@
+﻿
+#datetime {
+    text-align: center;
+}
+
+    #datetime h1 {
+        font-size: 6.1em;
+    }
+
+    #datetime h2 {
+        font-size: 1.0em;
+    }
+
+
+#forecaset ul li {
+    font-size: 4.5em;
+    text-align: center;
+}
+
+    #forecaset ul li h3 {
+        font-size: 1.4em;
+    }
+
+    #forecaset ul li .today h3 {
+        font-size: 1.8em;
+    }
+
+#actionbar {
+    position: absolute;
+    bottom: 0.5em;
+    right: 1.0em;
+}
+
+    #actionbar a {
+        font-size: 2. 2rem;
+        color: #000;
+    }
+
+.cityname {
+    text-align: center;
+    font-size: 5em;
+    padding-top: 30px;
+}
